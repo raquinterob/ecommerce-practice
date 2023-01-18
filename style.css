@@ -385,7 +385,7 @@ p.product-price {
   box-shadow: -4px 0 5px var(--text-input-field);
   right: 0;
 }
-.product-detail{
+.product-detail {
   grid-template-rows: auto 1fr;
 }
 .product-detail .close-btn {
@@ -553,7 +553,6 @@ p.product-price {
   height: 24px;
   margin-right: 24px;
   transform: rotate(180deg);
-  
 }
 .shopping-cart-container .cart-container {
   grid-template-rows: 1fr auto auto;
